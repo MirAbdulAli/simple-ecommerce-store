@@ -11,7 +11,7 @@ Open http://localhost:3000
 
 ## Admin demo
 Email: admin@shopeasy.com
-Password: admin123
+Password: admin
 
 ## Included product images
 - Wireless Headphones
