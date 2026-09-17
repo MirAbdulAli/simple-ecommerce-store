@@ -1,0 +1,111 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 1499,
+      "originalPrice": 1999,
+      "category": "Electronics",
+      "stock": 12,
+      "description": "Comfortable wireless headphones with clear sound and long battery life.",
+      "emoji": "\ud83c\udfa7",
+      "reviews": [],
+      "image": "/images/headphones.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 2499,
+      "originalPrice": 3299,
+      "category": "Electronics",
+      "stock": 8,
+      "description": "Track time, steps and daily activity with a modern smartwatch.",
+      "emoji": "\u231a",
+      "reviews": [],
+      "image": "/images/smart-watch.webp"
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "price": 1999,
+      "originalPrice": 2499,
+      "category": "Fashion",
+      "stock": 15,
+      "description": "Lightweight shoes for running and everyday use.",
+      "emoji": "\ud83d\udc5f",
+      "reviews": [],
+      "image": "/images/running-shoes.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Backpack",
+      "price": 999,
+      "originalPrice": 1299,
+      "category": "Fashion",
+      "stock": 20,
+      "description": "Strong and spacious backpack for college and travel.",
+      "emoji": "\ud83c\udf92",
+      "reviews": [],
+      "image": "/images/backpack.webp"
+    },
+    {
+      "id": 5,
+      "name": "Coffee Mug",
+      "price": 399,
+      "originalPrice": 499,
+      "category": "Home",
+      "stock": 30,
+      "description": "Simple ceramic mug for tea and coffee.",
+      "emoji": "\u2615",
+      "reviews": [],
+      "image": "/images/coffee-mug.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Desk Lamp",
+      "price": 799,
+      "originalPrice": 999,
+      "category": "Home",
+      "stock": 18,
+      "description": "Compact LED lamp for your study table.",
+      "emoji": "\ud83d\udca1",
+      "reviews": [],
+      "image": "/images/desk-lamp.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Black Denim Pant",
+      "price": 1499,
+      "originalPrice": 1999,
+      "category": "Fashion",
+      "stock": 15,
+      "description": "Classic black denim pants for casual everyday wear.",
+      "image": "/images/pant.webp",
+      "reviews": []
+    },
+    {
+      "id": 8,
+      "name": "Black Polo Shirt",
+      "price": 799,
+      "originalPrice": 999,
+      "category": "Fashion",
+      "stock": 20,
+      "description": "Classic black polo shirt with a clean, comfortable style.",
+      "image": "/images/black-shirt.webp",
+      "reviews": []
+    },
+    {
+      "id": 9,
+      "name": "Wooden Wall Clock",
+      "price": 899,
+      "originalPrice": 1199,
+      "category": "Home",
+      "stock": 10,
+      "description": "Decorative wooden wall clock for home and office spaces.",
+      "image": "/images/wall-clock.jpg",
+      "reviews": []
+    }
+  ],
+  "users": [],
+  "orders": []
+}
